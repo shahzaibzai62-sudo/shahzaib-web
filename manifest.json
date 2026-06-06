@@ -1,0 +1,27 @@
+{
+  "name": "Shahzaib Web",
+  "short_name": "Shahzaib Web",
+  "description": "Create a premium cinematic personal portfolio website for Shahzaib.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0f",
+  "theme_color": "#6C63FF",
+  "orientation": "portrait-primary",
+  "categories": [
+    "business",
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192x192/6C63FF/white?text=S",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/512x512/6C63FF/white?text=S",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
